@@ -26,6 +26,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     EditText inputUsername, inputPassword;
     TextView forgotPwLeft, forgotPwRight, signIn;
 
+    /*
+    commit text for github
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
